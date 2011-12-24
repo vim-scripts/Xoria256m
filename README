@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3859
+
+Xoria256m is a color scheme for a dark background. It is soft on the eyes and use greyish tones for text that is less important. 
+Note: I'm slightly color blind (red/green) so if you think this is hideous you're apparently not color blind.
+
+Screenshot (showing Go code): http://miek.nl/gfx/2011/xoria256m-go_code.png
+
+Xoria256m is forked from Xoria256: vimscript #2140
+
+For those interested:
+
+* A matching mutt color scheme: http://www.miek.nl/downloads/2011/mutt-color-xoria256m
+* And a dircolors theme: http://www.miek.nl/downloads/2011/dircolors-xoria256m
