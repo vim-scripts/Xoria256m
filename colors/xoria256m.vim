@@ -1,7 +1,7 @@
 " Vim color file
 "
 " Name:       xoria256m.vim
-" Version:    1.1
+" Version:    1.0.1
 " Maintainer: Dmitriy Y. Zotikov (xio) <xio@ungrund.org>
 " Maintainer: Miek Gieben <miek@miek.nl>
 " This is a fork of xoria256 suited for my own needs. gvim colors
@@ -52,7 +52,7 @@ hi WildMenu	 ctermfg=0 guifg=#000000 ctermbg=184 guibg=#d7d700 cterm=bold gui=bo
 
 "" Syntax highlighting
 hi Title	 ctermfg=255 guifg=#eeeeee cterm=none gui=none
-hi Comment	 ctermfg=239 guifg=#4e4e4e
+hi Comment	 ctermfg=242 guifg=#6c6c6c
 "hi Function     ctermfg=67  guifg=#5f87af cterm=bold  gui=bold
 hi Constant	 ctermfg=163 guifg=#d700af
 hi Error	 ctermfg=15 guifg=#ffffff ctermbg=1 guibg=#800000
@@ -60,7 +60,7 @@ hi ErrorMsg	 ctermfg=15 guifg=#ffffff ctermbg=1 guibg=#800000
 hi Identifier	 ctermfg=182 guifg=#d7afd7 cterm=none gui=none
 hi Ignore	 ctermfg=238 guifg=#444444
 hi LineNr	 ctermfg=235 guifg=#262626
-hi MatchParen	 ctermfg=67 guifg=#5f87af ctermbg=0 guibg=#000000 cterm=bold,underline gui=bold,underline
+hi MatchParen	 ctermfg=67 guifg=#5f87af ctermbg=0 guibg=#000000 cterm=bold gui=bold
 hi Number	 ctermfg=163 guifg=#d700af
 hi PreProc	 ctermfg=150 guifg=#afd787
 hi Special	 ctermfg=179 guifg=#d7af5f
