@@ -62,12 +62,15 @@ hi Ignore	 ctermfg=238 guifg=#444444
 hi LineNr	 ctermfg=235 guifg=#262626
 hi MatchParen	 ctermfg=67 guifg=#5f87af ctermbg=0 guibg=#000000 cterm=bold gui=bold
 hi Number	 ctermfg=163 guifg=#d700af
-hi PreProc	 ctermfg=150 guifg=#afd787
+hi PreProc	 ctermfg=67 guifg=#5f87af cterm=bold gui=bold
 hi Special	 ctermfg=179 guifg=#d7af5f
 hi Statement	 ctermfg=67 guifg=#5f87af cterm=none gui=none
 hi Todo	 ctermfg=15 guifg=#ffffff ctermbg=1 guibg=#800000
 hi Type	 ctermfg=83 guifg=#5fff5f cterm=none gui=none
 hi Underlined	 ctermfg=39 guifg=#00afff cterm=underline gui=underline
+
+" links
+hi link	Define PreProc
 
 """ .diff
 hi diffAdded	 ctermfg=150 guifg=#afd787
