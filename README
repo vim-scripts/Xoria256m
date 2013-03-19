@@ -1,6 +1,8 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3859
 
 Xoria256m is a color scheme for a dark background. It is soft on the eyes and use greyish tones for text that is less important. 
+It needs the Tango terminal color scheme.
+
 Note: I'm slightly color blind (red/green) so if you think this is hideous you're apparently not color blind.
 
 Screenshot (showing Go code): http://miek.nl/gfx/2011/xoria256m-go_code.png
